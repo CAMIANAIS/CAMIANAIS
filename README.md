@@ -19,7 +19,6 @@ En mi búsqueda de mi próximo puesto de trabajo, estoy buscando un ambiente est
 ![](https://github-readme-stats.vercel.app/api?username=CAMIANAIS&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CAMIANAIS&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMIANAIS&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![GitHub Stats for JavaScript and CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMIANAIS&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10&card_width=300)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
