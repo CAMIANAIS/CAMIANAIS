@@ -1,14 +1,11 @@
 ### Hola soy Cami! 👋
 
 ## Acerca de mí
-Desde temprana edad, he sido una apasionada de la tecnología, y esta pasión me ha llevado a descubrir mi propósito en la vida: hacer un impacto positivo en el mundo a través de la tecnología y rodearme de personas con un fuerte compromiso social. 🌍🔌
+Desde temprana edad, he sido una apasionada de la tecnología, y esta pasión me ha llevado a descubrir mi propósito en la vida: hacer un impacto positivo en el mundo a través de la tecnología y rodearme de personas con un fuerte compromiso social. 🌍 Me involucré en 10 proyectos de voluntariado, donde descubrí mi vocación por ayudar a emprendedores y contribuir a la creación de soluciones tecnológicas que beneficien a la sociedad. 💪🤝
 
-Me involucré en 10 proyectos de voluntariado, donde descubrí mi vocación por ayudar a emprendedores y contribuir a la creación de soluciones tecnológicas que beneficien a la sociedad. 💪🤝
-
-## Formación y Experiencia
 Mi formación se ha centrado en el desarrollo web, y mi experiencia en el reconocido bootcamp de Desarrollo Web, Laboratoria, me ha proporcionado habilidades técnicas sólidas y una especialización en la creación de soluciones web escalables. Estoy preparada para aportar al éxito de proyectos tecnológicos y estoy dispuesta a seguir aprendiendo en un entorno que cambia constantemente y que demanda una evolución continua. 💻📚
 
-En mi búsqueda de mi próximo puesto de trabajo, estoy buscando un ambiente estimulante y colaborativo que valore la creatividad, la innovación y la diversidad. Mi motivación radica en enfrentar desafíos que impulsen tanto mi crecimiento personal como profesional en el campo del desarrollo web.
+En la búsqueda de mi próximo puesto de trabajo, estoy buscando un ambiente estimulante y colaborativo que valore la creatividad, la innovación y la diversidad. Mi motivación radica en enfrentar desafíos que impulsen tanto mi crecimiento personal como profesional en el campo del desarrollo web.
 
 ## Habilidades tecnicas
 
