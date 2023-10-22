@@ -23,7 +23,7 @@ En la búsqueda de mi próximo puesto de trabajo, estoy buscando un ambiente est
 
 
 ## Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/camila-anais-mamani-cruz/)) Camila Anais Mamani Cruz
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-anais-mamani-cruz/) Camila Anais Mamani Cruz
 
 😄 Pronombres: she/her.
 
