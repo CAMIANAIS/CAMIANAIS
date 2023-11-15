@@ -21,7 +21,3 @@ I am self-taught with a quick learning capacity and an agile approach to project
 ## Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-anais-mamani-cruz/) Camila Anais Mamani Cruz
 
-😄 Pronombres: she/her.
-
-⚡ Dato curioso: soy muy organizada, y mido muchos mis tiempos para poder realizar todas mis tareas de la mejor forma.
-¡Estoy emocionada por lo que el futuro me depara en el mundo de la tecnología y la innovación social! 💫🚀
