@@ -1,7 +1,24 @@
 ### Hola soy Cami! 👋
 
 ## Acerca de mí
-I am self-taught with a quick learning capacity and an agile approach to project execution. I have strong web programming skills, including HTML, CSS, JavaScript, Angular, and React. Additionally, I excel in developing applications in Java and C#, and in database management, especially with MySQL Server. My experience in entrepreneurship, startups, and social innovation ecosystems has enriched my perspective and prepared me to face diverse challenges. If you have an exciting project in mind, I am willing to join and contribute innovative solutions that make a difference in the world of technology. Let's talk and start creating something amazing together!
+My career didn’t start in a code editor; it started in accounting ledgers. While analyzing financial statements and acting as a UAT Tester, I realized a fundamental truth: operational bottlenecks and fragile technologies are the true threats to a company's scalability. I chose to stop auditing the past and start engineering the future.
+Today, I am a Full Stack Developer with a strong backend focus, actively expanding into the AI Engineering path. As a self-driven continuous learner, I am currently building automations with n8n, connecting complex APIs, and deploying applications using Docker and containerization.
+I leverage my financial background to build software that is not just syntactically correct, but operationally sound. I understand the deep business logic, data integrity, and bottom-line impact behind every line of code I write.
+
+🚀 Recent Impact & Continuous Growth: 
+• AI & Automation Integration: Engineered the MVP for Origen Connect, a B2B platform linking local food producers with restaurants. This included developing an AI-driven chatbot to streamline supply chain communications, directly applying my API integration skills. 
+• Modern Infrastructure: Actively implementing Docker and container strategies to ensure seamless deployments, bridging the gap between backend development and scalable architecture.
+
+🛠️ My Technical Stack: 
+• Backend: C#, .NET, API Architecture. 
+• Databases: SQL Server, PostgreSQL. 
+• Frontend:React, React Native, TypeScript, JavaScript, PrimeReact. •
+ AI & DevOps (Self-Taught): n8n, Advanced API Integrations, Docker, Containers.
+
+Backed by operational experience in the US, I thrive in fast-paced, cross-cultural environments that demand both technical excellence and rapid adaptability.
+
+Let's build technology that makes business sense. Let's connect. 👇
+camilamcr97@gmail.com
 
 ## Habilidades tecnicas
 
